@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Potato</string>
+		<key>image</key>
+		<string></string>
+		<key>qty</key>
+		<integer>3</integer>
+		<key>expiry</key>
+		<string>2020-01-19T05:54:38Z</string>
+	</dict>
+</array>
+</plist>
